@@ -1,4 +1,4 @@
-# EV-Market-Dynamics
+# EV Market Dynamics
 
 ## Overview:
 
