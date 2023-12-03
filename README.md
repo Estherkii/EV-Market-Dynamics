@@ -20,6 +20,10 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 - bs4 BeautifulSoup
 - Requests
 
+## Image Presentation
+
+DALL·E
+
 ## Hypothesis
 
 
