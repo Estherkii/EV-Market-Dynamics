@@ -28,4 +28,4 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 
 
   
-[This is the link to my CANVA PRESENTATION]()
+This is the link to my [CANVA PRESENTATION](https://www.canva.com/design/DAF18x65rE4/yE5bUesCz4_nQVjXjLa_GA/edit)
