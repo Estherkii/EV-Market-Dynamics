@@ -1,5 +1,6 @@
 # EV Market Dynamics
-![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/e6424547-63a2-4be5-b573-4dddcfa10000)
+
+(![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/4cbffe90-37ee-43dd-ac67-717ccdfcbeb2)
 
 ## Overview:
 
@@ -14,6 +15,10 @@
 ## Image Presentation
 
 DALL·E
+
+## Workflow
+
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/f7c657b3-3fb1-4a19-b26e-c50b6a2626fb)
 
 ## Requirements/Libraries Used:
 
