@@ -18,7 +18,7 @@ DALL·E
 
 ## Workflow
 
-![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/f7c657b3-3fb1-4a19-b26e-c50b6a2626fb)
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/751e3017-213a-4085-a84b-f6e07f51f0fd)
 
 ## Requirements/Libraries Used:
 
