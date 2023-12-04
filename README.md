@@ -1,4 +1,4 @@
-# EV Market Dynamics
+# Electric Vehicles Market Dynamics
 
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/107b9352-10dc-4495-b93a-aae999a1fcfc)
 
