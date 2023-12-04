@@ -39,10 +39,24 @@ The line graph showing electric vehicle trends over time indicates a steadily gr
 
 Analyzing the bar chart on global model popularity, it's evident that certain electric vehicle models, such as Tesla's MODEL 3 and MODEL Y, along with Nissan's LEAF, enjoy substantial popularity, potentially due to factors such as brand prestige, performance, and a comprehensive suite of features. The dominance of these models could reflect a market inclination towards established brands that are synonymous with innovation and reliability in the electric vehicle sector. 
 
+### 2. Electric Vehicle Acceleration-Speed Correlation 
+
+Firstly, the chart is divided into two sections: the upper half showing average acceleration (measured in seconds for 0-60 mph, with lower numbers indicating faster acceleration) and the lower half showing average top speed (measured in mph, with higher numbers indicating a higher top speed).
+
+For the acceleration aspect, the brand with the lowest bar (indicating the fastest acceleration) appears to be Tesla, followed closely by brands like Porsche and Rivian. These brands are well-known for their focus on performance in the EV market, which supports their positioning at the top of the acceleration metric.
+
+In terms of top speed, the brands that show the highest bars (indicating the highest average top speed) include Porsche, Tesla, and Lucid. This is consistent with the market knowledge that these brands often produce performance-oriented models that not only accelerate quickly but also achieve high top speeds.
+
+The data suggests a trend that brands known for luxury and performance in their conventional combustion engine counterparts are transferring this emphasis to their EV offerings. It's reasonable to hypothesize that these brands prioritize performance to maintain their brand identity and appeal to their target market, which often values these characteristics.
+
+
 ## In conclusion
 
 The electric vehicle market has seen substantial growth, with more people every year opting for electric over traditional fuel-powered cars. The data implies a positive trend toward electric vehicle adoption, with a sharp increase in recent years suggesting that concerns like range anxiety are becoming less of an impediment as technology improves.
 
 The popularity of specific electric vehicle models is likely influenced by the reputation and perceived quality of the manufacturers. It shows that brands which are perceived as innovators or that offer high-quality vehicles tend to dominate the market. This trend is significant for manufacturers as it highlights the importance of building strong brand recognition and trust with consumers in the competitive electric vehicle market.
+
+Brands such as Tesla, Porsche, and Lucid are leading in both acceleration and top speed among the rest of electric vehicle brands. This could indicate that their engineering and design philosophies are heavily inclined towards high performance, or it might reflect the choices they make in the types of vehicles they are producing as EVs—potentially focusing on models that are more performance-oriented. 
+
   
 This is the link to my [CANVA PRESENTATION](https://www.canva.com/design/DAF18x65rE4/yE5bUesCz4_nQVjXjLa_GA/edit)
