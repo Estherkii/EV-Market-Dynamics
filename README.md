@@ -51,6 +51,8 @@ The second graph, of Total EV Sales by Top 10 Countries plus Europe, suggests th
 
 ### 3. Electric Vehicle Acceleration-Speed Elecric Range-Efficiency Correlation 
 
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/f3a2c189-5637-4a6f-8657-a6386eef65bc)
+
 The graphic displays the maximum acceleration (measured in seconds from 0 to 60 mph) and maximum top speed (mesured in mph) for different car brands. Brands with higher maximum acceleration values will also tend to have higher top speed values, indicating a possible correlation between a car's ability to accelerate quickly and its maximum speed capability. This could be due to factors such as engine power, aerodynamics, weight distribution, and overall design focused on performance.
 
 Cadillac and Porsche exhibit the highest maximum acceleration, while Jaguar and Lucid show the lowest. For top speed, BMW and Porsche share the top spot, whereas Lordstown has the lowest maximum top speed. This suggests that while there is some overlap (Porsche ranks high in both acceleration and top speed), the correlation is not absolute as Ford has a high acceleration but does not feature at the top for speed.
@@ -64,6 +66,11 @@ There is a diverse spectrum of electric ranges and efficiencies among different 
 Efficiency data presents Porsche as the most efficient brand with a value of 290, which may suggest a combination of advanced battery technology and optimized energy consumption. Conversely, Cadillac is at the lower end with an efficiency of 162, indicating there might be room for improvement in energy utilization.
 
 Given the data, one might analyse that there is a relationship between the electric range and efficiency of electric vehicles. Brands with higher electric range offer less efficiency, or conversely, that brands with higher efficiency may not always have the longest range. This could be due to various factors like battery technology, vehicle design, weight, aerodynamics, and energy management systems.
+
+### 4. Electric Types  BEV vs PHEV
+
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/8e8026fa-ed53-4ac1-8b55-eee35b99abd4)
+
 
 ## In conclusion
 
