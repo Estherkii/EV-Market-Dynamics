@@ -83,7 +83,7 @@ Given the data, one might analyse that there is a relationship between the elect
 
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/8e8026fa-ed53-4ac1-8b55-eee35b99abd4)
 
-
+The two-part graphics are comparing the production or sales of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) across different automotive brands and over time. From the bar chart labeled "Battery vs Hybrid per Brand," one could hypothesize that certain brands specialize more in either BEVs or PHEVs, with some brands possibly having a more balanced portfolio of both types of electric vehicles. The time-series line chart labeled "Electric Type - Full Electric vs Hybrid" suggests that there has been a change over time in the prevalence of BEVs and PHEVs. A hypothesis here could be that as technology and infrastructure have advanced, there may have been an increase in the production and adoption of BEVs compared to PHEVs, or vice versa.
 
 ## In conclusion
 
@@ -98,6 +98,8 @@ Interestingly, while brands known for performance cars, such as Porsche, do have
 There is an indication of a relationship between acceleration and top speed, it is not uniform across all brands. This diversity reflects different engineering choices and target market segments. Luxury and performance brands like BMW and Porsche tend to lead in both categories, supporting the hypothesis that these cars are designed with an emphasis on high performance. Meanwhile, brands like Lordstown and Lucid, which have lower metrics, might focus more on aspects such as efficiency, cost, or other functional characteristics over maximum speed or acceleration capability.
 
 Consumers have a wide range of options depending on their preferences for range or efficiency. However, it does not necessarily indicate a direct correlation between the two metrics, as some brands with high range do not top the efficiency chart and vice versa. This could imply that factors like vehicle purpose, design priorities, and technological capabilities play significant roles in determining an EV's range and efficiency metrics.
+
+Electric vehicle market is dynamic, with some brands focusing more on BEVs while others maintain a mix of BEVs and PHEVs. The market's evolution over time indicates a potential shift towards BEVs, which may continue as technology improves and as more consumers and governments push for cleaner transportation options. However, the sustained presence of PHEVs suggests that they still play a crucial role in the transition towards fully electric mobility, possibly due to their ability to alleviate range anxiety and offer flexibility with their dual power sources.
 
 Check the graphics in [Tableau!](https://public.tableau.com/app/profile/esther.tirado.martinez/viz/ElectricVehicleDynamicsMarket/EV_Dynamics_Market?publish=yes)
 This is the link to my [Canva Presentation](https://www.canva.com/design/DAF18x65rE4/yE5bUesCz4_nQVjXjLa_GA/edit)
