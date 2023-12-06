@@ -89,7 +89,7 @@ The listed data below the graphic indicates a significant variance in electric r
 
 Efficiency data presents Lucid as highly efficient, potentially reflecting advanced battery technology and optimized energy consumption, while other brands like Ford and Chevrolet are less efficient, indicating potential areas for improvement.
 
-Given the data, there appears to be a complex relationship between the electric range and efficiency of electric vehicles. It's not always that brands with a higher electric range offer less efficiency; conversely, brands with high efficiency do not always have the longest range. This complexity could be attributed to various factors such as battery technology, vehicle design, weight, aerodynamics, and energy management systems.
+There appears to be a complex relationship between the electric range and efficiency of electric vehicles. It's not always that brands with a higher electric range offer less efficiency; conversely, brands with high efficiency do not always have the longest range. This complexity could be attributed to various factors such as battery technology, vehicle design, weight, aerodynamics, and energy management systems.
 <br>
 ### 5. Electric Types  BEV vs PHEV
 <br>
