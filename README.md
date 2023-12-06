@@ -49,7 +49,19 @@ The first graphic of EV Total Stock Per Year shows a consistent and significant 
 
 The second graph, of Total EV Sales by Top 10 Countries plus Europe, suggests that the sales of EVs are not evenly distributed across the countries. China, Europe, and the United States appear to dominate the market, with China showing a particularly steep curve in sales growth. This dominance could be attributed to several factors, including the size of the consumer market in these regions, economic capacity to invest in new technologies, government incentives to purchase EVs, and the existing availability of charging infrastructure. The other countries listed, while still participating in the EV market, show comparatively lower sales, which could be due to smaller market sizes, less aggressive government incentives, or other economic factors.
 
-### 3. Electric Vehicle Acceleration-Speed Elecric Range-Efficiency Correlation 
+### 3. Price Correlation (USD) between Brands 
+
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/4aa452a4-f668-46e1-a891-86280eb078ed)
+
+The heatmap shows the average price in dollars for electric vehicles (EVs) by various automotive brands. Luxury and performance-oriented automotive brands are likely to offer electric vehicles at a higher average price point compared to more mass-market or economy-focused brands. The higher prices could be attributed to the use of advanced technology, higher performance specifications, more luxurious features, or brand prestige.
+
+However, there is a wide price range among electric vehicles, indicating that the market is segmented into different tiers, catering to diverse consumer preferences and budgets. This segmentation might reflect not only differences in brand positioning but also variations in vehicle size, range, performance, and features.
+
+Porsche and Lucid are the brands with the highest average prices for their electric vehicles, suggesting that these brands position their EV offerings in the luxury and high-performance market segments. In contrast, Chevrolet and MINI are at the lower end of the price spectrum, which might indicate a focus on providing more affordable EV options to consumers.
+
+The spread of prices from Chevrolet at the lowest to Porsche at the highest indicates that the electric vehicle market caters to a broad range of customers, from those seeking economical transportation solutions to those desiring luxury and performance. This price variance supports the hypothesis that EVs are not a one-size-fits-all market and that there's a stratification of offerings to meet different consumer needs and wants.
+
+### 4. Electric Vehicle Acceleration-Speed Elecric Range-Efficiency Correlation 
 
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/f3a2c189-5637-4a6f-8657-a6386eef65bc)
 
@@ -67,9 +79,10 @@ Efficiency data presents Porsche as the most efficient brand with a value of 290
 
 Given the data, one might analyse that there is a relationship between the electric range and efficiency of electric vehicles. Brands with higher electric range offer less efficiency, or conversely, that brands with higher efficiency may not always have the longest range. This could be due to various factors like battery technology, vehicle design, weight, aerodynamics, and energy management systems.
 
-### 4. Electric Types  BEV vs PHEV
+### 5. Electric Types  BEV vs PHEV
 
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/8e8026fa-ed53-4ac1-8b55-eee35b99abd4)
+
 
 
 ## In conclusion
@@ -79,6 +92,8 @@ The electric vehicle market has seen substantial growth, with more people every 
 The popularity of specific electric vehicle models is likely influenced by the reputation and perceived quality of the manufacturers. It shows that brands which are perceived as innovators or that offer high-quality vehicles tend to dominate the market. This trend is significant for manufacturers as it highlights the importance of building strong brand recognition and trust with consumers in the competitive electric vehicle market.
 
 The EV market is rapidly expanding, with certain regions leading the way in adoption (China, United States and Europe). The steep growth trajectory in total stock indicates a strong, growing demand for EVs, likely supported by a combination of consumer preferences, policy support, and technological advancements. The disproportionate sales figures across different countries suggest that market conditions, government policies, and infrastructure development significantly influence the pace at which EVs are adopted. 
+
+Interestingly, while brands known for performance cars, such as Porsche, do have higher prices, this is not uniformly the case across all performance brands, as seen with Tesla having a lower average price than Porsche, Lucid, and even BMW. This could suggest that Tesla's pricing strategy is competitive within the luxury segment, possibly due to economies of scale or a strategic choice to price EVs more aggressively to capture market share.
 
 There is an indication of a relationship between acceleration and top speed, it is not uniform across all brands. This diversity reflects different engineering choices and target market segments. Luxury and performance brands like BMW and Porsche tend to lead in both categories, supporting the hypothesis that these cars are designed with an emphasis on high performance. Meanwhile, brands like Lordstown and Lucid, which have lower metrics, might focus more on aspects such as efficiency, cost, or other functional characteristics over maximum speed or acceleration capability.
 
