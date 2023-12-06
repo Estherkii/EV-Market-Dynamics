@@ -32,7 +32,7 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 - Requests
 
 ## Hypothesis
-<br>
+
 ### 1. Electric Vehicle Trends and Popularity
 <br>
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/18b9d513-da99-4c98-8113-dcf3136c05ba)
