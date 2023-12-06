@@ -35,6 +35,7 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 
 ### 1. Electric Vehicle Trends and Popularity
 <br>
+
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/18b9d513-da99-4c98-8113-dcf3136c05ba)
 
 The line graph showing electric vehicle trends over time indicates a steadily growing interest in electric vehicles from 1997 to 2023. The significant increases in the number of electric vehicles around the years 2010 and 2016 suggest that more people are choosing electric vehicles, perhaps due to advances in technology or an increase in environmental consciousness. The peak in 2022 implies that electric vehicles have become more mainstream, possibly driven by a wider selection of models available to consumers and greater public acceptance.
@@ -43,6 +44,7 @@ Analyzing the bar chart on global model popularity, it's evident that certain el
 <br>
 ### 2. Total Stock and Sales per Year by Top 10 Countries plus Europe
 <br>
+
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/b452af76-b566-446c-bdd7-292344d63876)
 
 The first graphic of EV Total Stock Per Year shows a consistent and significant growth in the total number of electric vehicles in stock from 2017 to 2022. This consistent increase could imply a rising global adoption rate of electric vehicles, possibly due to factors such as advancements in technology, increased awareness of environmental issues, governmental policies encouraging EV usage, or improvements in the infrastructure supporting electric vehicles.
@@ -51,6 +53,7 @@ The second graph, of Total EV Sales by Top 10 Countries plus Europe, suggests th
 <br>
 ### 3. Price Correlation (USD) between Brands 
 <br>
+
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/4aa452a4-f668-46e1-a891-86280eb078ed)
 
 The heatmap shows the average price in dollars for electric vehicles (EVs) by various automotive brands. Luxury and performance-oriented automotive brands are likely to offer electric vehicles at a higher average price point compared to more mass-market or economy-focused brands. The higher prices could be attributed to the use of advanced technology, higher performance specifications, more luxurious features, or brand prestige.
@@ -63,6 +66,7 @@ The spread of prices from Chevrolet at the lowest to Porsche at the highest indi
 <br>
 ### 4. Electric Vehicle Acceleration-Speed Elecric Range-Efficiency Correlation 
 <br>
+
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/f3a2c189-5637-4a6f-8657-a6386eef65bc)
 
 The graphic displays the maximum acceleration (measured in seconds from 0 to 60 mph) and maximum top speed (mesured in mph) for different car brands. Brands with higher maximum acceleration values will also tend to have higher top speed values, indicating a possible correlation between a car's ability to accelerate quickly and its maximum speed capability. This could be due to factors such as engine power, aerodynamics, weight distribution, and overall design focused on performance.
