@@ -5,6 +5,12 @@
 
 ## Overview
 
+In this project, we will delve into the evolving landscape of electric vehicles (EVs), examining their rising trend and popularity, as indicated by historical data spanning from 1997 to 2023. We will investigate the dominance of certain models in the market, exploring factors that contribute to their success. 
+
+Additionally, we will analyze the distribution of EV stocks and sales across major global players, assessing the disparities and potential reasons behind them. We aim to explore the correlation between the pricing strategies of different automotive brands and their market segmentation, from budget-friendly to luxury offerings. 
+
+Furthermore, we will look at performance metrics, such as acceleration and top speed, to discern patterns and exceptions among various brands. Finally, we will compare the market penetration of battery electric vehicles (BEVs) versus plug-in hybrid electric vehicles (PHEVs), tracking their trajectory over the years to understand the shifting preferences within the EV market.
+
 ## Data adquisition
 
 * [Kaggle](https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-population-data)
