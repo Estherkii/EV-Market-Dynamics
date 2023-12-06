@@ -64,7 +64,7 @@ It might be due because of the substantial increase in both the total stock and 
 ### 3. Price Correlation (USD) between Brands 
 <br>
 
-![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/6fe8f2ec-1382-4977-89a6-2a15b17dd22c)
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/1e1c4c71-ab63-4740-badf-174e15b31f6f)
 
 The heat map visualizes the average price in U.S. dollars for various car brands, likely representing their electric vehicle (EV) models. Brands such as Porsche and Lucid stand out with the highest average prices, suggesting they occupy the luxury segment of the EV market. GMC, Rivian, Audi, and Mercedes also showcase higher average prices, which might indicate they offer premium features or performance that justify their cost.
 
