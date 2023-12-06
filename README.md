@@ -116,3 +116,6 @@ Check the graphics in [Tableau!](https://public.tableau.com/app/profile/esther.t
 <br>
 <br>
 This is the link to my [Canva Presentation](https://www.canva.com/design/DAF18x65rE4/yE5bUesCz4_nQVjXjLa_GA/edit)
+
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/07d46b83-3cde-4642-9572-df8237e19250)
+
