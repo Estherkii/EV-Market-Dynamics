@@ -49,16 +49,21 @@ The first graphic of EV Total Stock Per Year shows a consistent and significant 
 
 The second graph, of Total EV Sales by Top 10 Countries plus Europe, suggests that the sales of EVs are not evenly distributed across the countries. China, Europe, and the United States appear to dominate the market, with China showing a particularly steep curve in sales growth. This dominance could be attributed to several factors, including the size of the consumer market in these regions, economic capacity to invest in new technologies, government incentives to purchase EVs, and the existing availability of charging infrastructure. The other countries listed, while still participating in the EV market, show comparatively lower sales, which could be due to smaller market sizes, less aggressive government incentives, or other economic factors.
 
-### 3. Electric Vehicle Acceleration-Speed Correlation 
+### 3. Electric Vehicle Acceleration-Speed Elecric Range-Efficiency Correlation 
 
-Firstly, the chart is divided into two sections: the upper half showing average acceleration (measured in seconds for 0-60 mph, with lower numbers indicating faster acceleration) and the lower half showing average top speed (measured in mph, with higher numbers indicating a higher top speed).
+The graphic displays the maximum acceleration (measured in seconds from 0 to 60 mph) and maximum top speed (mesured in mph) for different car brands. Brands with higher maximum acceleration values will also tend to have higher top speed values, indicating a possible correlation between a car's ability to accelerate quickly and its maximum speed capability. This could be due to factors such as engine power, aerodynamics, weight distribution, and overall design focused on performance.
 
-For the acceleration aspect, the brand with the lowest bar (indicating the fastest acceleration) appears to be Tesla, followed closely by brands like Porsche and Rivian. These brands are well-known for their focus on performance in the EV market, which supports their positioning at the top of the acceleration metric.
+Cadillac and Porsche exhibit the highest maximum acceleration, while Jaguar and Lucid show the lowest. For top speed, BMW and Porsche share the top spot, whereas Lordstown has the lowest maximum top speed. This suggests that while there is some overlap (Porsche ranks high in both acceleration and top speed), the correlation is not absolute as Ford has a high acceleration but does not feature at the top for speed.
 
-In terms of top speed, the brands that show the highest bars (indicating the highest average top speed) include Porsche, Tesla, and Lucid. This is consistent with the market knowledge that these brands often produce performance-oriented models that not only accelerate quickly but also achieve high top speeds.
+Also, we can see that luxury or sports-focused car brands will typically have higher acceleration and top speed figures compared to more economy or utility-focused brands, reflecting the different priorities in vehicle design and engineering.
 
-The data suggests a trend that brands known for luxury and performance in their conventional combustion engine counterparts are transferring this emphasis to their EV offerings. It's reasonable to hypothesize that these brands prioritize performance to maintain their brand identity and appeal to their target market, which often values these characteristics.
+In the listed data below the graphic, we can deduct that brands vary significantly in their electric range and efficiency. The first row shows car brands alongside a numerical value likely representing the electric range of their EV models measured in miles. The second row lists car brands with corresponding values that possibly denote their efficiency, which is measured in miles per kilowatt-hour (Wh).
 
+There is a diverse spectrum of electric ranges and efficiencies among different EV brands. For instance, Hyundai shows the highest electric range at 685, which could suggest a larger battery capacity or more efficient use of energy. On the other hand, brands like Mazda have significantly lower range, which could imply smaller battery sizes or less efficient energy use.
+
+Efficiency data presents Porsche as the most efficient brand with a value of 290, which may suggest a combination of advanced battery technology and optimized energy consumption. Conversely, Cadillac is at the lower end with an efficiency of 162, indicating there might be room for improvement in energy utilization.
+
+Given the data, one might analyse that there is a relationship between the electric range and efficiency of electric vehicles. Brands with higher electric range offer less efficiency, or conversely, that brands with higher efficiency may not always have the longest range. This could be due to various factors like battery technology, vehicle design, weight, aerodynamics, and energy management systems.
 
 ## In conclusion
 
@@ -68,7 +73,9 @@ The popularity of specific electric vehicle models is likely influenced by the r
 
 The EV market is rapidly expanding, with certain regions leading the way in adoption (China, United States and Europe). The steep growth trajectory in total stock indicates a strong, growing demand for EVs, likely supported by a combination of consumer preferences, policy support, and technological advancements. The disproportionate sales figures across different countries suggest that market conditions, government policies, and infrastructure development significantly influence the pace at which EVs are adopted. 
 
-Brands such as Tesla, Porsche, and Lucid are leading in both acceleration and top speed among the rest of electric vehicle brands. This could indicate that their engineering and design philosophies are heavily inclined towards high performance, or it might reflect the choices they make in the types of vehicles they are producing as EVs—potentially focusing on models that are more performance-oriented. 
+There is an indication of a relationship between acceleration and top speed, it is not uniform across all brands. This diversity reflects different engineering choices and target market segments. Luxury and performance brands like BMW and Porsche tend to lead in both categories, supporting the hypothesis that these cars are designed with an emphasis on high performance. Meanwhile, brands like Lordstown and Lucid, which have lower metrics, might focus more on aspects such as efficiency, cost, or other functional characteristics over maximum speed or acceleration capability.
+
+Consumers have a wide range of options depending on their preferences for range or efficiency. However, it does not necessarily indicate a direct correlation between the two metrics, as some brands with high range do not top the efficiency chart and vice versa. This could imply that factors like vehicle purpose, design priorities, and technological capabilities play significant roles in determining an EV's range and efficiency metrics.
 
 
 This is the link to my [CANVA PRESENTATION](https://www.canva.com/design/DAF18x65rE4/yE5bUesCz4_nQVjXjLa_GA/edit)
