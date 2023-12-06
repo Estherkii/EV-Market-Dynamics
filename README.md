@@ -44,26 +44,32 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/71a31a71-7a88-45bb-abc4-faeed680c536)
 
-The line graph showing electric vehicle trends over time indicates a steadily growing interest in electric vehicles from 1997 to 2023. The significant increases in the number of electric vehicles around the years 2010 and 2016 suggest that more people are choosing electric vehicles, perhaps due to advances in technology or an increase in environmental consciousness. The peak in 2022 implies that electric vehicles have become more mainstream, possibly driven by a wider selection of models available to consumers and greater public acceptance.
+The line graph chronicling electric vehicle trends from 1997 to 2023 showcases a burgeoning trajectory of adoption, with pronounced spikes in uptake particularly post-2010 and again around 2016. This escalation in interest could be attributed to technological advancements, heightened environmental awareness, and an increasing array of available models. Notably, the surge in adoption rates seen from 2020 onwards might also be influenced by the global pandemic, which has catalyzed a widespread public discourse on sustainability and climate change, potentially prompting consumers to pivot towards more eco-friendly transportation options.
 
-Analyzing the bar chart on global model popularity, it's evident that certain electric vehicle models, such as Tesla's MODEL 3 and MODEL Y, along with Nissan's LEAF, enjoy substantial popularity, potentially due to factors such as brand prestige, performance, and a comprehensive suite of features. The dominance of these models could reflect a market inclination towards established brands that are synonymous with innovation and reliability in the electric vehicle sector. 
+The bar graph delineating global model popularity underscores the dominance of specific models like Tesla's MODEL 3 and MODEL Y, as well as Nissan's LEAF. This popularity may be linked to the brand prestige of Tesla and Nissan's pioneering status in the electric vehicle market, combined with performance excellence and rich feature sets of these models. The preeminence of these vehicles hints at a market preference for brands that epitomize innovation and reliability in electric vehicle technology.
+
 <br>
 ### 2. Total Stock and Sales per Year by 3 top Countries
 <br>
 
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/0bbe4b9a-bef8-48d7-9716-ea060b7bc9ec)
 
-The first graphic of EV Total Stock Per Year shows a consistent and significant growth in the total number of electric vehicles in stock from 2017 to 2022, particularly in China. One might hypothesize that the substantial increase in both the total stock and total sales of EVs in China, as depicted, is a direct result of aggressive policy initiatives, substantial investments in EV infrastructure, and a growing domestic market receptive to new technology. This aligns with China’s commitment to reducing carbon emissions and leading the global charge in renewable energy adoption. The comparatively moderate growth observed in the United States may reflect a more gradual consumer transition to electric mobility, possibly influenced by market diversity and less aggressive government incentives for EV adoption.
+The first graphic of EV Total Stock Per Year shows a consistent and significant growth in the total number of electric vehicles in stock from 2017 to 2022, particularly in China. 
+
+It might be due because of the substantial increase in both the total stock and total sales of EVs in China, as depicted, is a direct result of aggressive policy initiatives, substantial investments in EV infrastructure, and a growing domestic market receptive to new technology. This aligns with China’s commitment to reducing carbon emissions and leading the global charge in renewable energy adoption. The comparatively moderate growth observed in the United States may reflect a more gradual consumer transition to electric mobility, possibly influenced by market diversity and less aggressive government incentives for EV adoption.
 
 <br>
+
 ### 3. Price Correlation (USD) between Brands 
 <br>
 
 ![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/6fe8f2ec-1382-4977-89a6-2a15b17dd22c)
 
-The heatmap shows the average price in dollars for electric vehicles (EVs) by various automotive brands. It reveals a clear segmentation in the electric car market. Brands in the 'Luxury' cluster have average prices exceeding $100,000, while brands in the 'Medium' and 'Economic' clusters range from $30,000 to $60,000. This likely reflects a product differentiation strategy based on quality and premium features. Furthermore, the size of the clusters suggests that the market for luxury electric cars is currently smaller but might be offering higher profit margins for manufacturers.
+The heat map visualizes the average price in U.S. dollars for various car brands, likely representing their electric vehicle (EV) models. Brands such as Porsche and Lucid stand out with the highest average prices, suggesting they occupy the luxury segment of the EV market. GMC, Rivian, Audi, and Mercedes also showcase higher average prices, which might indicate they offer premium features or performance that justify their cost.
 
-However, there is a wide price range among electric vehicles, indicating that the market is segmented into different tiers, catering to diverse consumer preferences and budgets. This segmentation might reflect not only differences in brand positioning but also variations in vehicle size, range, performance, and features.
+In contrast, brands like Mazda, MINI, and Toyota are on the lower end of the price spectrum, possibly reflecting a focus on affordability and mass-market appeal. This might suggest that these brands aim to provide more cost-effective EV solutions to a broader customer base.
+
+Ford, Polestar, Cadillac, and Volvo occupy the middle price range, which could indicate that their EV offerings are balanced in terms of features, performance, and price, targeting the mid-range market segment.
 
 <br>
 
@@ -101,7 +107,7 @@ The popularity of specific electric vehicle models is likely influenced by the r
 
 The EV market is rapidly expanding, with certain regions leading the way in adoption (China, United States and Germany). The steep growth trajectory in total stock indicates a strong, growing demand for EVs, likely supported by a combination of consumer preferences, policy support, and technological advancements. The disproportionate sales figures across different countries suggest that market conditions, government policies, and infrastructure development significantly influence the pace at which EVs are adopted. 
 
-Interestingly, while brands known for performance cars, such as Porsche, do have higher prices, this is not uniformly the case across all performance brands, as seen with Tesla having a lower average price than Porsche, Lucid, and even BMW. This could suggest that Tesla's pricing strategy is competitive within the luxury segment, possibly due to economies of scale or a strategic choice to price EVs more aggressively to capture market share.
+Interestingly, some manufacturers are positioned as luxury or performance-oriented, while others are targeting cost-conscious consumers. The presence of brands like Tesla in the mid-to-high range reflects a competitive positioning where they offer a blend of innovation, performance, and relatively higher accessibility compared to top-tier luxury brands. This stratification is indicative of a diverse consumer base with varying priorities and budgets, catering to different segments within the EV market.
 
 There is an indication of a relationship between acceleration and top speed, it is not uniform across all brands. This diversity reflects different engineering choices and target market segments. Luxury and performance brands like BMW and Porsche tend to lead in both categories, supporting the hypothesis that these cars are designed with an emphasis on high performance. Meanwhile, brands like Lordstown and Lucid, which have lower metrics, might focus more on aspects such as efficiency, cost, or other functional characteristics over maximum speed or acceleration capability.
 
