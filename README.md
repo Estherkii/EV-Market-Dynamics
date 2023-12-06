@@ -49,6 +49,7 @@ The line graph chronicling electric vehicle trends from 1997 to 2023 showcases a
 The bar graph delineating global model popularity underscores the dominance of specific models like Tesla's MODEL 3 and MODEL Y, as well as Nissan's LEAF. This popularity may be linked to the brand prestige of Tesla and Nissan's pioneering status in the electric vehicle market, combined with performance excellence and rich feature sets of these models. The preeminence of these vehicles hints at a market preference for brands that epitomize innovation and reliability in electric vehicle technology.
 
 <br>
+
 ### 2. Total Stock and Sales per Year by 3 top Countries
 <br>
 
