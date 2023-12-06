@@ -19,7 +19,7 @@ DALL·E
 
 ## Workflow
 
-![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/d962c697-b506-4b3d-942d-2e9d5105f1eb)
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/6d0c4234-6dac-4f0e-ad3e-043ced7107d6)
 
 ## Requirements/Libraries Used:
 
@@ -35,11 +35,15 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 
 ### 1. Electric Vehicle Trends and Popularity
 
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/18b9d513-da99-4c98-8113-dcf3136c05ba)
+
 The line graph showing electric vehicle trends over time indicates a steadily growing interest in electric vehicles from 1997 to 2023. The significant increases in the number of electric vehicles around the years 2010 and 2016 suggest that more people are choosing electric vehicles, perhaps due to advances in technology or an increase in environmental consciousness. The peak in 2022 implies that electric vehicles have become more mainstream, possibly driven by a wider selection of models available to consumers and greater public acceptance.
 
 Analyzing the bar chart on global model popularity, it's evident that certain electric vehicle models, such as Tesla's MODEL 3 and MODEL Y, along with Nissan's LEAF, enjoy substantial popularity, potentially due to factors such as brand prestige, performance, and a comprehensive suite of features. The dominance of these models could reflect a market inclination towards established brands that are synonymous with innovation and reliability in the electric vehicle sector. 
 
 ### 2. Total Stock and Sales per Year by Top 10 Countries plus Europe
+
+![image](https://github.com/Estherkii/EV-Market-Dynamics/assets/123992666/b452af76-b566-446c-bdd7-292344d63876)
 
 The first graphic of EV Total Stock Per Year shows a consistent and significant growth in the total number of electric vehicles in stock from 2017 to 2022. This consistent increase could imply a rising global adoption rate of electric vehicles, possibly due to factors such as advancements in technology, increased awareness of environmental issues, governmental policies encouraging EV usage, or improvements in the infrastructure supporting electric vehicles.
 
