@@ -84,5 +84,5 @@ There is an indication of a relationship between acceleration and top speed, it 
 
 Consumers have a wide range of options depending on their preferences for range or efficiency. However, it does not necessarily indicate a direct correlation between the two metrics, as some brands with high range do not top the efficiency chart and vice versa. This could imply that factors like vehicle purpose, design priorities, and technological capabilities play significant roles in determining an EV's range and efficiency metrics.
 
-
-This is the link to my [CANVA PRESENTATION](https://www.canva.com/design/DAF18x65rE4/yE5bUesCz4_nQVjXjLa_GA/edit)
+Check the graphics in [Tableau!](https://public.tableau.com/app/profile/esther.tirado.martinez/viz/ElectricVehicleDynamicsMarket/EV_Dynamics_Market?publish=yes)
+This is the link to my [Canva Presentation](https://www.canva.com/design/DAF18x65rE4/yE5bUesCz4_nQVjXjLa_GA/edit)
